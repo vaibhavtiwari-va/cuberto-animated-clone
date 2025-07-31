@@ -31,7 +31,8 @@ This is a visually striking, responsive landing page inspired by Cuberto — a r
 ---
 ## 🔮 Screenshots
 
-![webpage](https://github.com/user-attachments/assets/dffbe7f2-5b9f-4544-b002-e157605da14f)
+[webpage](https://github.com/user-attachments/assets/cb95ef67-35b4-4a86-9b86-323e011c1e6f)
+
 
 
 ---
