@@ -1,4 +1,4 @@
-# 🌐 Cuberto-Inspired Digital Agency Landing Page
+# 🌐 Inspired Digital Agency Landing Page
 
 This is a visually striking, responsive landing page inspired by Cuberto — a renowned digital design agency. The project showcases modern web design techniques including magnetic button effects, video hover interactions, scroll-triggered animations, and image effects powered by SheryJS and GSAP.
 
